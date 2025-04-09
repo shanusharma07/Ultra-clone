@@ -315,5 +315,20 @@ section .two {
       font-size: 12px;
       padding: 8px 12px;
     }
-  }
+    .grid {
+        width: 90vw;
+        padding: 0;
+        justify-items: center;
+      }
+    
+      .item {
+        max-width: 90vw;
+        width: 100%;
+      }
+    }
+    
+  
+  
+    
+  
   
